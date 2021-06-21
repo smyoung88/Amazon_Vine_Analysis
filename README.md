@@ -28,4 +28,4 @@ The total percent of 5-star Vine (paid for) and non-Vine (unpaid for) reviews we
 
 
 ## Summary
-In your summary, there does not appear to be any positivity bias for reviews in the Vine program since both Vine and non-Vine reviews had the same percentage of 5-star votes. To further validate this, analysis should be done on each 'star-rating'. We validated that the high end of the star-rating did not appear to show any signs of bias, but it may also be useful to see if there is a much higher percentage of one-star reviews for the non-Vine program over the Vine program.
+In summary, there does not appear to be any positivity bias for reviews in the Vine program since both Vine and non-Vine reviews had the same percentage of 5-star votes. To further validate this, analysis should be done on each 'star-rating'. We validated that the high end of the star-rating did not appear to show any signs of bias, but it may also be useful to see if there is a much higher percentage of one-star reviews for the non-Vine program over the Vine program.
