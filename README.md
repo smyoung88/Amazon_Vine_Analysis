@@ -9,22 +9,22 @@ The purpose of this project was to analyze Amazon reviews written by members of 
 The total Vine (paid for) and non-Vine (unpaid for) reviews were 266 and 38,829 respectively as shown below in the pandas analysis screenshots:
 
 
-<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/main/blob/Resources/vine_reviews.png">
-<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/main/blob/Resources/non_vine_reviews.png">
+<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/blob/main/Resources/vine_reviews.png">
+<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/blob/main/Resources/non_vine_reviews.png">
 
 
 <b>How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?</b>
 The total 5-star Vine (paid for) and non-Vine (unpaid for) reviews were 125 and 18,246 respectively as shown below in the pandas analysis screenshots:
 
 
-<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/main/blob/Resources/fivestar_vine_reviews.png">
-<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/main/blob/Resources/fivestar_non_vine_reviews.png">
+<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/blob/main/Resources/fivestar_vine_reviews.png">
+<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/blob/main/Resources/fivestar_non_vine_reviews.png">
 
 <b>What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?</b>
 The total percent of 5-star Vine (paid for) and non-Vine (unpaid for) reviews were both 46.99% as shown below in the pandas analysis screenshots:
 
-<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/main/blob/Resources/fivestar_vine_pct.png">
-<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/main/blob/Resources/fivestar_non_vine_pct.png">
+<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/blob/main/Resources/fivestar_vine_pct.png">
+<img src="https://github.com/smyoung88/Amazon_Vine_Analysis/blob/main/Resources/fivestar_non_vine_pct.png">
 
 
 ## Summary
